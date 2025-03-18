@@ -7,7 +7,7 @@ import (
 	"runtime/pprof"
 	"time"
 
-	"github.com/gballet/go-verkle"
+	"github.com/noku-team/go-verkle"
 )
 
 func main() {

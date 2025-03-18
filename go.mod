@@ -1,4 +1,4 @@
-module github.com/gballet/go-verkle
+module github.com/noku-team/go-verkle
 
 go 1.18
 
